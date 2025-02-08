@@ -1,6 +1,4 @@
-
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=An%20intelligent%20code%20generator%20for%20Laravel%20framework%20which%20will%20save%20you%20lots%20of%20time!&url=https://github.com/CrestApps/laravel-code-generator&hashtags=laravel,laravel-code-generator,laravel-crud,code-generator,crud-generator,laravel-crud-generator)
-
 ## Introduction
 
 An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many on the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application.
